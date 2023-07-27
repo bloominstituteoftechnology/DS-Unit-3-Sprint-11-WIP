@@ -1,0 +1,13 @@
+accelerate
+certifi
+diffusers
+fastapi
+joblib
+pydantic
+pymongo[srv]
+python-dotenv
+python-multipart
+torch
+transformers
+uvicorn[standard]
+scikit-learn
